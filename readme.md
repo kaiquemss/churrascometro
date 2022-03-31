@@ -2,6 +2,8 @@
 
 <p>Este projeto é Churrascômetro feito com HTML CSS e Javascript que a partir do número de pessoas e duração calcula a quantidade necessária de itens para fazer um churrasco</p>
 
+![Animação2](https://user-images.githubusercontent.com/79489384/161168055-7bc51117-1900-4297-afd8-9ff15a83d2e9.gif)
+
 
 <hr>
 
